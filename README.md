@@ -30,6 +30,7 @@ Example:
 - HTML/CSS/JS
 - Spacy
 - Flask
+- Streamlit
 - Wikipedia
 - HeroKu
 

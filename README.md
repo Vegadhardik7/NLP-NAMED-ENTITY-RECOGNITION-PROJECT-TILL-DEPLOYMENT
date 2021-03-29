@@ -14,4 +14,5 @@ Named Entity Recognition <b>(NER)</b> seeks to locate & classify named entities 
 All of the above mentioned categories are highligted with some color which is completely different for all the entities and beside that entity it's category is written.
 
 Example:
-![](NER.png)
+
+![](NER1.png)

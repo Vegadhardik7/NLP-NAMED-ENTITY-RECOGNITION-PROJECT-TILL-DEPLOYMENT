@@ -35,7 +35,7 @@ Example:
 - HeroKu
 
 
-# Working Mechanish Of This Project:
+# Approach & Methodology For This Project:
 
 At first I imported all the essential libraries such as spacy, Flask, wikipedia...etc. Then I started to create a basic Flask model.
 After that at home function I took the subject that the user is interstead in. Then I passed it to the Prediction function in which with the help of wikipedia library I started to web scraping for the subject which user is interestead in. After the web scraping is over I gave that scraped data to the scpacy which which will give me the final output as I had show above in the form of NER.
